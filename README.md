@@ -7,18 +7,18 @@
 2、数据库表介绍  
 3、项目前后端代码结构介绍  
 
-[^_^]:
-    ## 0、序言
-    大家好，欢迎来到SpringMVCDemo项目主页。
-    这个项目名称是SpringMvcDemo，它是一个JavaEE初学者入门系列项目中的一个。
-    JavaEE初学者入门系列项目包括三个项目，它们分别是：ServletJspDemo、SpringMvcDemo、SpringBootDemo。
-    JavaEE初学者入门系列项目是通过实战向大家介绍Java企业级开发技术的历史演变过程的项目。
 
-    Java企业级开发的技术演变历史，是Servlet、Jsp->Spring、SpringMVC->SpringBoot和SpringCloud。
-    所以这三个项目的目的是通过实战，向大家依次展示Java企业级开发技术的三个发展阶段。
-    ServletJspDemo项目：展示Servlet、Jsp技术做Java企业级开发的过程。
-    SpringMvcDemo项目：展示采用Spring、SpringMvc技术做Java企业级开发的过程。
-    SpringBootDemo项目：展示采用SpringBoot做Java企业级开发的过程。
+## 0、序言
+大家好，欢迎来到SpringMVCDemo项目主页。
+这个项目名称是SpringMvcDemo，它是一个JavaEE初学者入门系列项目中的一个。
+JavaEE初学者入门系列项目包括三个项目，它们分别是：ServletJspDemo、SpringMvcDemo、SpringBootDemo。
+JavaEE初学者入门系列项目是通过实战向大家介绍Java企业级开发技术的历史演变过程的项目。
+
+Java企业级开发的技术演变历史，是Servlet、Jsp->Spring、SpringMVC->SpringBoot和SpringCloud。
+所以这三个项目的目的是通过实战，向大家依次展示Java企业级开发技术的三个发展阶段。
+ServletJspDemo项目：展示Servlet、Jsp技术做Java企业级开发的过程。
+SpringMvcDemo项目：展示采用Spring、SpringMvc技术做Java企业级开发的过程。
+SpringBootDemo项目：展示采用SpringBoot做Java企业级开发的过程。
 
 ## 1、整体介绍
 
